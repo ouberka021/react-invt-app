@@ -47,11 +47,11 @@ https://invt-pro.herokuapp.com/
 
 ### Home page
 
-![](./images/add-cart.png)
+![](images/home.png)
 ### List Product
-![](./images/product-list.png)
+![](images/list.png)
 ### New product
-![](images/new-pro.png)
+![](images/new-item.png)
 
 ## Video link
 
