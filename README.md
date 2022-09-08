@@ -53,9 +53,7 @@ https://invt-pro.herokuapp.com/
 ### New product
 ![](images/new-item.png)
 
-## Video link
 
-[<img src="images/inv.jpeg" width="50%">](https://www.youtube.com/watch?v=cajkz7BmzdY"")
     
 ## Support
 ```bash
