@@ -12,11 +12,11 @@ This application is a simple inventory product system, created using ReactJS and
 ### Clone the project 
 Github link :
 ```bash
-https://github.com/ouberka021/inventory.git
+https://github.com/ouberka021/react-invt-app.git
 ```
 Heroku link
 ```bash
-https://inventory-tb.herokuapp.com
+https://invt-pro.herokuapp.com/
 ``` 
 
 ### Install my-project using ReactJS framework.
@@ -47,9 +47,9 @@ https://inventory-tb.herokuapp.com
 
 ### Home page
 
-![](images/add-cart.png)
+![](./images/add-cart.png)
 ### List Product
-![](images/product-list.png)
+![](./images/product-list.png)
 ### New product
 ![](images/new-pro.png)
 
