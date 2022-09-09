@@ -12,12 +12,12 @@ This application is a simple inventory product system, created using ReactJS and
 
 ### Clone the project 
 
-### Github link Frontend :
+### Github link Backend :
 ```bash
 https://github.com/ouberka021/express-app.git
 ```
 
-### Github link Backend :
+### Github link Frontend :
 ```bash
 https://github.com/ouberka021/react-invt-app.git
 ```
