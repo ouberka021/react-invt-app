@@ -9,8 +9,15 @@ This application is a simple inventory product system, created using ReactJS and
  3. Html/CSS
 ```
 ## Installation
+
 ### Clone the project 
-Github link :
+
+### Github link Frontend :
+```bash
+https://github.com/ouberka021/express-app.git
+```
+
+### Github link Backend :
 ```bash
 https://github.com/ouberka021/react-invt-app.git
 ```
